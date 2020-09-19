@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Unik/Programming/Quiz/main.c
+main.h
+D:/Unik/Programming/Quiz/main.h
+
+D:/Unik/Programming/Quiz/main.h
+stdio.h
+-
+
